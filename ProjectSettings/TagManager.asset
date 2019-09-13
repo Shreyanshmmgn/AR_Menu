@@ -9,6 +9,8 @@ TagManager:
   - 3
   - 4
   - 5
+  - Card
+  - Menu
   layers:
   - Default
   - TransparentFX
